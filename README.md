@@ -2,14 +2,11 @@
 
 # Mohammed Ali P S
 
+_Techie by Profession, Author by Passion_
+
+
 </div>
 
-<span font-family:Times New Roman></span>
-
-
-
-_Techie by Profession, Author by Passion_
-</span>
 > **Life and love are easy to understand, but difficult to describe**
 > _- Mohammed Ali P S_
 > 
@@ -20,7 +17,7 @@ _Techie by Profession, Author by Passion_
 
 <div align="center">
 
-**_My Fun Motto in my life_**
+**_Fun Motto in my life_**
 
 </div>
 
