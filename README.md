@@ -1,2 +1,2 @@
-### Hi there 👋, This is Mohammed ALi P S. 
-> A Techie by Profession, Author by Passion.
+### Hi there 👋, This is Mohammed Ali P S. 
+''' A Techie by Profession, Author by Passion. ''' 
