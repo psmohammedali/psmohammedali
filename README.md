@@ -1,9 +1,15 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
 <div align="center">
 
 # Mohammed Ali P S
 
 _Techie by Profession, Author by Passion_
 
+[<i class="fa fa-instagram fa-2x"></i>](https://www.instagram.com/psmohammedali/?hl=en "My Instagram Account")  
+[<i class="fa fa-linkedin fa-2x"></i> ](https://www.linkedin.com/in/psmohammedali/ "My LinkedIn Account ") 
+[<i class="fa fa-facebook-square fa-2x"></i>](https://www.facebook.com/psmohammedali/ "My FaceBook Account")
 
 </div>
 
