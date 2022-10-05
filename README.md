@@ -16,7 +16,7 @@ _Techie by Profession, Author by Passion_
 > **Life and love are easy to understand, but difficult to describe**
 > _- Mohammed Ali P S_
 > 
-[My Portforlio](https://www.mohammedali.tech "My personal Website")
+[My Portforlio](https://www.psmohammedali.live "My personal Website")
 
 
 --- 
